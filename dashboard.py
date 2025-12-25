@@ -4,12 +4,7 @@ import numpy as np
 import plotly.graph_objects as go
 import plotly.express as px
 from datetime import datetime
-import sys
-import os
-
-# Add parent directory to path
-sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-import config
+ODDS_API_KEY = st.secrets["ODDS_API_KEY"]
 
 # Page config
 st.set_page_config(
