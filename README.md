@@ -76,11 +76,3 @@ Data Collection → Feature Engineering → ML Training → Edge Detection → D
 Educational project only. Gambling involves risk. Past performance ≠ future results.
 
 
-
-This project demonstrates production-level ML engineering: data collection, feature 
-engineering, model training, risk management, and deployment.
-
-GitHub: github.com/yourname/sports-betting-ml
-Live Demo: yourdashboard.streamlit.app
-
-#MachineLearning #DataScience #Python #XGBoost #MLOps
